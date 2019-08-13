@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<center>
+<h1>AtregenioF photo Gallery<h1>
+   <body>
+ 
+    <style>
+      
+       .bottomleft {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+  
+     </style>
+
+   </body>
+ 
+   <img src="9.jpg" alt="erika" 
+
+style="width:100px;height:100px;">
+</center>
+
+<footer>
+        <div class="bottomleft">
+        <a href="page1.html">Back to home</a> 
+<div>    
+      
+</footer>
+       
+</html>
